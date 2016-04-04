@@ -1,7 +1,7 @@
 # rodori.zsh-theme < fino.zsh-theme
 
 # Use with a dark background and 256-color terminal!
-# Meant for people with rbenv and git. Tested only on OS X 10.7.
+# Meant for people with rbenv and git. Tested only on OS X 10.7 and Arch Linux.
 
 # You can set your computer name in the ~/.box-name file if you want.
 
